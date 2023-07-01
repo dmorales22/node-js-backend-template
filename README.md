@@ -17,7 +17,7 @@ Lookup any guides out there to install this software relating to your OS and dev
 
 You can download this project by using the git clone command. Make sure you have proper authorization to use to this Git repository as it may ask for a username and password (or token).
 
-`git clone https://github.com/nop-softworks/node-js-template`
+`git clone https://github.com/dmorales22/node-js-template`
 
 ### Quick Start
 
